@@ -8,13 +8,13 @@ Structure :
 
 * notebooks :  
  
-` notebook 1 : un peu d'histoire`  
-` notebook 2 : numérisation des images et des mots`  
-` notebook 3 : ton premier neurone formel`  
-` notebook 4 : couches de convolution`  
-` notebook 5 : couches attentionnelles`  
+`notebook 1 : un peu d'histoire`  
+`notebook 2 : numérisation des images et des mots`  
+`notebook 3 : ton premier neurone formel`  
+`notebook 4 : couches de convolution`  
+`notebook 5 : couches attentionnelles`  
  
 * images :  
   
-`* photo1.jpg`  
-`* photo2.jpg`  
+`photo1.jpg`  
+`photo2.jpg`  
