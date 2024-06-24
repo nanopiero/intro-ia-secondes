@@ -2,6 +2,8 @@
 
 Travaux dirigés pour découvrir les briques de base de l'IA.
 Niveau requis : fin de seconde (programme maths 2024)
+Temps : 2 heures
+
 Structure :  
 
 * notebooks :  
