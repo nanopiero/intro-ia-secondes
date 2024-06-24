@@ -16,5 +16,5 @@ Structure :
  
 * images :  
   
-`photo1.jpg`  
-`photo2.jpg`  
+`three.jpg`  
+`Carabus.jpg`  
