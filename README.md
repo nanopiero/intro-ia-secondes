@@ -2,9 +2,9 @@
 
 Travaux dirigés pour découvrir les briques de base de l'IA.
 Niveau requis : fin de seconde (programme maths 2024)
-Structure:  
+Structure :  
 
-* notebooks:  
+* notebooks :  
  
 `* notebook 1 : un peu d'histoire`  
 `* notebook 2 : numérisation des images et des mots`  
@@ -12,3 +12,7 @@ Structure:
 `* notebook 4 : couches de convolution`  
 `* notebook 5 : couches attentionnelles`  
  
+* images :  
+  
+`* photo1.jpg`  
+`* photo2.jpg`  
