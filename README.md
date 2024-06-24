@@ -1,7 +1,7 @@
 # intro-ia-secondes
 
 Travaux dirigés pour découvrir les briques de base de l'IA.
-Niveau requis : fin de seconde (oprogramme 2024)
+Niveau requis : fin de seconde (programme maths 2024)
 Structure:  
 
 * notebooks:  
