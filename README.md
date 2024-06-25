@@ -11,10 +11,8 @@ Structure :
 `calepin 1 : un peu d'histoire`  
 `calepin 2 : numérisation des images et des mots`  
 `calepin 3 : ton premier neurone formel`  
-`calepin 4 : couches de convolution`  
-`calepin 5 : couches attentionnelles`  
+`calepin 4 : aide à l'annotation`  
  
 * images :  
-  
-`three.jpg`  
+   
 `Carabus.jpg`  
