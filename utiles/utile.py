@@ -55,3 +55,27 @@ def afficher(image, width_cm=15):
   except:
     plt.imshow(image, cmap='gray')
 
+
+
+def preleve_element():
+  label = torch.randint(0,2, (1,))
+  x = 2*label - 1
+  moyenne = torch.tensor((x, x))
+  point = moyenne + 0.65 * torch.randn(2)
+  return point.numpy(), label.item()
+
+def preleve_element2():
+  label = torch.randint(0,2, (1,))
+  std = 0.45
+
+  if label == 0 :
+    rand2 = 2 * torch.randint(0,2, (1,)) - 1
+    moyenne = torch.tensor((rand2, rand2))
+    point = moyenne + std * torch.randn(2)
+  else :
+    x = 2*label - 1
+    rand2 = 2 * torch.randint(0,2, (1,)) - 1
+    moyenne = torch.tensor((rand2, -1 * rand2))
+    point = moyenne + std * torch.randn(2)
+
+  return point.numpy(), label.item()
