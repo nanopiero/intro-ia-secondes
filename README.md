@@ -1,4 +1,4 @@
-# intro-ia-secondes
+# intro-ia-secondes-2024
 
 Travaux dirigés pour découvrir les briques de base de l'IA.  
 Niveau requis : fin de seconde (programme maths 2024)  
